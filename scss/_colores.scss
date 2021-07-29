@@ -1,0 +1,24 @@
+@import "tamanios";
+/* el comentario multilinea se compila */
+// el comentario de linea no se compila
+$azul:blue;
+$amarillo:rgb(250, 250, 199);
+$verde:green;
+$beige:rgb(240, 240, 232);
+$centrar: center;
+
+.lorem {
+    font-family: 'Indie Flower', cursive;
+}
+.nosotros {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+section {
+    h1 {
+        text-align: center;
+    }
+}
+.producto {
+    font-family: 'Indie Flower', cursive;
+}

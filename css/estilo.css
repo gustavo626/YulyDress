@@ -1,0 +1,41 @@
+/* el comentario multilinea se compila */
+.lorem {
+  font-family: 'Indie Flower', cursive; }
+
+.nosotros {
+  text-align: center;
+  font-family: 'Indie Flower', cursive; }
+
+section h1 {
+  text-align: center; 
+font-family: cursive;}
+  
+  h2 {
+    text-align: center;
+    font-family: cursive;
+  }
+  .hombre {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .producto {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+  }
+  footer {
+    background-color: rgb(247, 241, 236);
+  }
+  .titulo {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 60px;
+    font-family: cursive;
+  }
+  .conteiner-all p {
+    font-family:  'Indie Flower', cursive;
+  }
+  footer div p {
+    margin-top: 30px;
+    font-family: cursive;
+  }
